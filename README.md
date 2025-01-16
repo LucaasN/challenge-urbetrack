@@ -32,4 +32,4 @@ Para clonar y ejecutar el proyecto sigue estos pasos:
 ## Despliegue
 Se puede testear el proyecto deployado en Netlify:
 
-[Netlify]([https://wallbit-challenge.netlify.app](https://challenge-urbetrack.netlify.app/)/)
+[Netlify](https://challenge-urbetrack.netlify.app/)

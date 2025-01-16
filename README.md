@@ -11,7 +11,7 @@
 - **React Tostify**
 - **React Router V6**
 - **React Icons**
-- **Lorem Picsum API ([https://fakestoreapi.com/](https://picsum.photos/))**
+- **Lorem Picsum API ([[https://fakestoreapi.com/](https://picsum.photos/)](https://picsum.photos/))**
 
 
 ## Clonar y ejecutar el proyecto
